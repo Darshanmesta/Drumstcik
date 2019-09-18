@@ -1,0 +1,67 @@
+body{
+  background-color: #512c62;
+}
+
+
+#first_head{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #f75f00;
+}
+
+.first{
+  text-align: center;
+
+  margin-top: 5%;
+}
+
+.butt{
+  margin: 1% 1%;
+  font-size: 2rem;
+  padding: 2%;
+font-family: 'IM Fell Double Pica SC', serif;
+color: #01024e;
+}
+
+.pressed{
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum_image{
+
+padding-top: 2%;
+}
+
+.drum_img{
+  text-align: center;
+}
+
+.w{
+
+  background-image: url("Drums/drum.jpg");
+}
+
+.e{
+    background-image: url("Drums/E Drum.jpg");
+}
+
+.l{
+  background-image: url("Drums/L Drum.jpg");
+}
+
+.c{
+  background-image: url("Drums/C Drum.jpg");
+}
+
+.o{
+    background-image: url("Drums/O Drum.jpg");
+}
+
+.m{
+  background-image: url("Drums/M Drum.jpg");
+}
+
+.e{
+  background-image: url("Drums/E Drum.jpg");
+}
